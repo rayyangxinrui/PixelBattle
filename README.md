@@ -1,4 +1,3 @@
-<img width="1374" height="1185" alt="image" src="https://github.com/user-attachments/assets/4a44701a-1931-408d-b14a-64ebee1086cc" /># PixelBattle
 The inspiration comes from three classic pixel games. The modified version allows you to have a battle with your friends!
 
 There are 3 levels, 
